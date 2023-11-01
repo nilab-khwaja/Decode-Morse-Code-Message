@@ -166,7 +166,7 @@ sentence = decode_sentence('add-here-the-morse-code-you-want-to-decode')
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Nilab Khwaja**
+👤 **Nilab Khwajazada**
 
 - GitHub: [@nilab-khwaja](https://github.com/nilab-khwaja)
 - Twitter: [@nilab](https://x.com/NilabKhwajazada?t=hEkqy2CCNFOIfGtbmD2gLA&s=35)
